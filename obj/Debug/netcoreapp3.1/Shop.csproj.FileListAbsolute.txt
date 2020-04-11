@@ -1,0 +1,11 @@
+D:\DevEd\лекции\c#\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+D:\DevEd\лекции\c#\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+D:\DevEd\лекции\c#\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+D:\DevEd\лекции\c#\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+D:\DevEd\лекции\c#\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+D:\DevEd\лекции\c#\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+D:\DevEd\лекции\c#\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+D:\DevEd\лекции\c#\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+D:\DevEd\лекции\c#\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+D:\DevEd\лекции\c#\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+D:\DevEd\лекции\c#\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
