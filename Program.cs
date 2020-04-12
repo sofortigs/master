@@ -8,17 +8,21 @@ namespace Shop
         static Shop shop = new Shop(15, 10, 7);
         static void Main(string[] args)
         {
-            
-
             Queue<Buyer> buyers = new Queue<Buyer>();
-            buyers.Enqueue(new Buyer(ListOfProduct(), 111));
-            buyers.Enqueue(new Buyer(ListOfProduct(), 50));
-            buyers.Enqueue(new Buyer(ListOfProduct(), 76));
-
-            
-            while(buyers.Count!=0)
+            int countDays = 1; ;
+            while (countDays < 5)
             {
+                Console.WriteLine("-----DAY " + countDays + "-----");
+                Console.WriteLine("-----BUYER 1-----");
+                buyers.Enqueue(new Buyer(ListOfProduct(), 200));
                 shop.NextBuyer(buyers.Dequeue());
+                Console.WriteLine(" ");
+                Console.WriteLine("-----BUYER 2-----");
+                buyers.Enqueue(new Buyer(ListOfProduct(), 100));
+                shop.NextBuyer(buyers.Dequeue());
+                countDays++;
+                shop.ExpDateCount();
+                Console.WriteLine("============================================");
             }
 
             static List<Products> ListOfProduct()

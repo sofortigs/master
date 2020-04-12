@@ -8,5 +8,6 @@ namespace Shop
     {
         public string nameOfProduct;
         public int price;
+        public int expDate;
     }
 }

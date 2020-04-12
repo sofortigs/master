@@ -6,7 +6,10 @@ namespace Shop
 {
     public class Shop
     {
-        
+        Bread bread1 = new Bread();
+        Milk milk1 = new Milk();
+        Cake cake1 = new Cake();
+
         public Queue<Milk> milk = new Queue<Milk>();
         public Queue<Bread> bread = new Queue<Bread>();
         public Queue<Cake> cake = new Queue<Cake>();
@@ -110,6 +113,12 @@ namespace Shop
                 buyer._cash -= totalPrice;
                 Console.WriteLine("You got " + buyer._cash + "$ left");
             }
+        }
+        public void ExpDateCount()
+        {
+            milk1.expDate--;
+            bread1.expDate--;
+            cake1.expDate--;
         }
     }
 }
