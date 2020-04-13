@@ -4,12 +4,12 @@ using System.Text;
 
 namespace Shop
 {
-    public class Cake:Products
+    public class Apple : Products
     {
-        public Cake()
+        public Apple()
         {
-            price = 13;
-            expDate = 2;
+            price = 5;
+            expDate = 3;
         }
     }
 }

@@ -9,6 +9,7 @@ namespace Shop
         public Milk()
         {
             price = 22;
+            expDate = 10;
         }
     }
 }

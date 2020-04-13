@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevEd\\лекции\\c#\\Shop\\Shop.csproj": {}
+    "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\master\\Shop.csproj": {}
   },
   "projects": {
-    "D:\\DevEd\\лекции\\c#\\Shop\\Shop.csproj": {
+    "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\master\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevEd\\лекции\\c#\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\master\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "D:\\DevEd\\лекции\\c#\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-        "outputPath": "D:\\DevEd\\лекции\\c#\\Shop\\obj\\",
+        "projectPath": "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\master\\Shop.csproj",
+        "packagesPath": "C:\\Users\\VLADYSLAV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\master\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\VLADYSLAV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
