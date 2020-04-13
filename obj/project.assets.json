@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Serafima Foxy\\.nuget\\packages\\": {},
+    "C:\\Users\\VLADYSLAV\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serafima Foxy\\Desktop\\Shop\\Shop.csproj",
+      "projectUniqueName": "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\master\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "C:\\Users\\Serafima Foxy\\Desktop\\Shop\\Shop.csproj",
-      "packagesPath": "C:\\Users\\Serafima Foxy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serafima Foxy\\Desktop\\Shop\\obj\\",
+      "projectPath": "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\master\\Shop.csproj",
+      "packagesPath": "C:\\Users\\VLADYSLAV\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\master\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Serafima Foxy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\VLADYSLAV\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
