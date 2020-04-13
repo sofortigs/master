@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\master\\Shop.csproj": {}
+    "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\v2\\master\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\master\\Shop.csproj": {
+    "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\v2\\master\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\master\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\v2\\master\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\master\\Shop.csproj",
+        "projectPath": "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\v2\\master\\Shop.csproj",
         "packagesPath": "C:\\Users\\VLADYSLAV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\master\\obj\\",
+        "outputPath": "C:\\Users\\VLADYSLAV\\Documents\\GitHub\\v2\\master\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

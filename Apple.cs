@@ -8,8 +8,8 @@ namespace Shop
     {
         public Apple()
         {
-            price = 5;
-            expDate = 3;
+            price = 8;
+            expDate = 7;
         }
     }
 }
